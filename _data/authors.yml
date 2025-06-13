@@ -4,6 +4,9 @@ default:
   avatar: "/assets/images/vert.jpg"  # あとで画像をアップロード
   location: "Kyoto, Japan"
   links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/verty72"
     - label: "X"
       icon: "fab fa-twitter"
       url: "https://x.com/mottyvert"
