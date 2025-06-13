@@ -1,5 +1,5 @@
 default:
-  name: "宮本"
+  name: "Hiroyuki Miyamoto"
   bio: "京都大学 博士1年"
   avatar: "/assets/images/vert.jpg"  # あとで画像をアップロード
   location: "Kyoto, Japan"
