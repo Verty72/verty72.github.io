@@ -1,6 +1,6 @@
 default:
   name: "宮本"
-  bio: "京都大学大学院 博士課程1年"
+  bio: "京都大学 博士1年"
   avatar: "/assets/images/vert.jpg"  # あとで画像をアップロード
   location: "Kyoto, Japan"
   links:
